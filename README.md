@@ -1,4 +1,4 @@
-# Exploratory Data Analysis for Spotify & YouTube Popularity
+# Exploratory Data Analysis (EDA) for Spotify & YouTube Popularity
 
 ## Table of Contents
 
