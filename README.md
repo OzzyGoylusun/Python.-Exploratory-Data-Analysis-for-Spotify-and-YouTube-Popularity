@@ -9,6 +9,10 @@
 ### Project Overview
 ---
 
+This EDA analysis conducted in Python aims to discover and explore the specific elements that comprise the top 50 Spotify songs, as well as the extent to degree which their Spotify popularity is reflected on YouTube through their official channels on the platform.
+
+Below is an example of an heat map designed to highlight correlations between various musical parameters:
+
 
 ### Data Sources
 
