@@ -13,7 +13,7 @@ This EDA analysis conducted in Python aims to discover and explore the specific 
   <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/Spotify-YouTube%20Logo.png"  alt="Spotify-YouTube Logo" width="250">
 </p>
 
-As an illustration, below is a heatmap designed to highlight correlations between various musical parameters, taking into account nearly 18,000 unique tracks found in the dataset used.
+As an illustration, below is a heatmap designed to highlight numerous correlations between various musical parameters, taking into account nearly 18,000 unique tracks found in the dataset used.
 
 In this respect, *a darker green color* indicates a stronger positive correlation between two variables for more, while *a darker black color* indicates a stronger negative correlation between the variables. 
 
