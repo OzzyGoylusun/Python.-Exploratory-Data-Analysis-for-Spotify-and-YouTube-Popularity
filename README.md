@@ -106,10 +106,10 @@ The critical EDA analysis results are summarised as follows:
 * Songs' danceability levels are predominantly at medium or good levels.
 * Valence levels tend to skew towards neutral or slightly negative, suggesting that songs on Spotify are more preferred if they include elements of sadness, anger, depression or even anarchy instead of being cheerful or euphoric.
 
-5. Only **22%** of the top 50 songs on Spotify managed to make it to the list of the top 50 viewed song tracks on YouTube within the same dataset. This percentage drops even further when considering the number of likes and comments left by users, with only **20%** and **8%** respectively.
+5. Only **22%** of the top 50 songs on Spotify managed to make it to the list of **the top 50 viewed song tracks** on YouTube within the same dataset. This percentage drops even further when considering the number of likes and comments left by users, with only **20%** and **8%** respectively.
    
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/4)%20The%20Degree%20of%20Spotify%20Popularity%20on%20YouTube.png"  alt="Spotify vs. YouTube Popularity" width="750">
+  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/4)%20The%20Degree%20of%20Spotify%20Popularity%20on%20YouTube.png"  alt="Spotify vs. YouTube Popularity" width="850">
 </p>
 
 
