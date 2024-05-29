@@ -51,7 +51,7 @@ By analysing the dataset at hand, EDA sought to answer the following key questio
 1. What percentage of the top 50 songs on Spotify are composed by the top 20 artists on Spotify?
 2. How strong is the correlation between the top 50 Spotify tracks and their corresponding song durations?
 3. Which musical track measures exhibit meaningful strong positive or negative correlations?
-4. XXX
+4. What are the main characteristics of the top 50 Spotify songs based on the correlated measures?
 5. XXX
 
 ### Data Analysis
