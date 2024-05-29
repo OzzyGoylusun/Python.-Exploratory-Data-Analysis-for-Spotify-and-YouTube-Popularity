@@ -8,7 +8,6 @@
 
 ### Project Overview
 ---
-
 This EDA analysis conducted in Python aims to discover and explore the specific elements that comprise the top 50 Spotify songs, as well as the extent to degree which their Spotify popularity is reflected on YouTube through their official channels on the platform.
 
 <p align="center">
@@ -39,19 +38,20 @@ The dataset used for this EDA project was **Spotify-YouTube.csv** also available
 
 The following data preparation and preprocessing tasks were undertaken:
 
-- The dataset was first inspected and then imported into two separate Pandas DataFrames, one for each (i.e., Spotify and YouTube-related data)
-- Certain columns that would not be required at any stage of the analysis were permanently dropped in both DataFrames.
+- The dataset was inspected and imported into two separate Pandas DataFrames, one for each (i.e., Spotify and YouTube-related data).
 - NaN/non-existing values of certain records within particular columns were also removed.
-- Some data transformation tasks (e.g., new columns for a deeper data classification) were undertaken in an attempt to represent the data in the most user-friendly manner possible.
+- Certain columns that would not be required at any stage of the analysis were permanently dropped in both DataFrames.
+- Some data transformation tasks (e.g., new columns for a deeper data classification, data conversion) were undertaken in an attempt to represent the data in the most user-friendly manner possible.
 
 ### Exploratory Data Analysis
 
-By analysing XXX, EDA sought to answer the following key questions:
+By analysing the dataset at hand, EDA sought to answer the following key questions, including but not limited to:
 
-1. 
-2. 
-3. 
-
+1. What percentage of the top 50 songs on Spotify are composed by the top 20 artists on Spotify?
+2. How strong is the correlation between the top 50 Spotify tracks and their corresponding song durations?
+3. XXX
+4. XXX
+5. XXX
 
 ### Data Analysis
 
