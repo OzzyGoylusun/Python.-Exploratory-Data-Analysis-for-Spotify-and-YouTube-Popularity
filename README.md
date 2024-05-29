@@ -32,13 +32,16 @@ The dataset used for this EDA project was **Spotify-YouTube.csv** also available
 
 ### Tools
 
-- Anaconda Navigator to access the Jupyter Notebook for **Python** - Data Manipulation, Analysis and Visualisation
+- Anaconda Navigator to access the Jupyter Notebook for **Python** - Data Inspection, Manipulation, Analysis and Visualisation
   - [Download Here](https://www.anaconda.com/download)
 
+### Data Preparation and Preprocessing
 
-### Data Preparation
+The following data preparation and preprocessing tasks were undertaken:
 
-TBD
+- The dataset was first inspected and then imported into two separate Pandas DataFrames.
+- NaN/non-existing values of certain records within particular columns were removed in one DataFrame.
+- A column named Decade was formed to be able to classify prize winners and categorise pertinent data as per 10-year periods.
 
 
 ### Exploratory Data Analysis
