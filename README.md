@@ -39,7 +39,7 @@ The dataset used for this EDA project was **Spotify-YouTube.csv** also available
 The following data preparation and preprocessing tasks were undertaken:
 
 - The dataset was inspected and imported into two separate Pandas DataFrames, one for each (i.e., Spotify and YouTube-related data).
-- NaN/non-existing values of certain records within particular columns were also removed.
+- NaN/non-existing values of certain records within particular columns were removed.
 - Certain columns that would not be required at any stage of the analysis were permanently dropped in both DataFrames.
 - Some data transformation tasks (e.g., new columns for a deeper data classification, data conversion) were undertaken in an attempt to represent the data in the most user-friendly manner possible.
 
