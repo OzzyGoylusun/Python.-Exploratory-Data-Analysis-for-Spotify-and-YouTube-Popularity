@@ -104,7 +104,7 @@ The critical EDA analysis results are summarised as follows:
 * They exhibit medium or medium-to-high energy levels, accompanied by high or even extreme decibel levels.
 * Both acousticness and instrumentalness are extremely low for such songs, meaning that the presence of lyrics with an electronic ambiance plays a paramount role in the popularity of these songs.
 * Songs' danceability levels are predominantly at medium or good levels.
-* Valence levels tend to skew towards neutral or slightly negative, suggesting that songs on Spotify are more preferred if they include elements of sadness, anger, depression or even anarchy.
+* Valence levels tend to skew towards neutral or slightly negative, suggesting that songs on Spotify are more preferred if they include elements of sadness, anger, depression or even anarchy instead of being cheerful or euphoric.
 
 5. XXX
 
