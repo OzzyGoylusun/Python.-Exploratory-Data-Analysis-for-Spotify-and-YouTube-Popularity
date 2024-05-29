@@ -87,7 +87,7 @@ sns.heatmap(corr_spotify_matrix, annot=True, cmap=spotify_target_colors)
 The critical EDA analysis results are summarised as follows:
 
 1. Only **46%** of the top 50 Spotify songs/tracks was composed by the top 20 Spotify artists.
-2. There is **almost no correlation** identified between the popularity of a Spotify song and its total duration, with a coefficient of -0.10. Nevertheless, it could be argued that composing slightly shorter songs could favour the artist.
+2. There is **almost no correlation** identified between the popularity of a Spotify song and its total duration, with a coefficient of -0.10. Nevertheless, it could be argued that composing slightly shorter songs could favour the artist to a small extent.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/2)%20Correlation%20between%20All%20Songs%20and%20Durations.png"  alt="Correlation" width="750">
