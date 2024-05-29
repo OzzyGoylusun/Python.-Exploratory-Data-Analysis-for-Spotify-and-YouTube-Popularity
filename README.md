@@ -96,15 +96,15 @@ The critical EDA analysis results are summarised as follows:
 3. As visualized above in *the Project Overview*, **Energy** and **Loudness** exhibit a strong positive correlation, while **Energy** and **Valence-Danceability** show a somewhat strong positive correlation. Additionally, **Energy-Loudness** and **Acousticness-Instrumentalness** display a strong negative correlation.
 
 4. The main characteristics of the top 50 Spotify songs, based on the correlated measures, are summarised as below:
+   
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/3)%20Natural%20Characteristics%20of%20the%20Top%2050%20Songs.png"  alt="Natural characteristics of the top 50 songs on Spotify" width="750">
+</p>
 
 * They exhibit medium or medium-to-high energy levels, accompanied by high or even extreme decibel levels.
 * Both acousticness and instrumentalness are extremely low for such songs, meaning that the presence of lyrics with an electronic ambiance plays a paramount role in the popularity of these songs.
 * Songs' danceability levels are predominantly at medium or good levels.
 * Valence levels tend to skew towards neutral or slightly negative, suggesting that songs on Spotify are more preferred if they include elements of sadness, anger, depression or even anarchy.
-
-<p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/3)%20Natural%20Characteristics%20of%20the%20Top%2050%20Songs.png"  alt="Natural characteristics of the top 50 songs on Spotify" width="750">
-</p>
 
 5. XXX
 
