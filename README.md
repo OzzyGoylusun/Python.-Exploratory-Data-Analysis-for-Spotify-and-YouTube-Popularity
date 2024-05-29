@@ -84,19 +84,19 @@ sns.heatmap(corr_spotify_matrix, annot=True, cmap=spotify_target_colors)
 
 ### Findings
 
-The critical analysis results are summarised as follows:
-
-1. XXX
-2. XXX
-
-
-### Recommendations
-
-Based on the findings above, I propose the following recommendations:
+The critical EDA analysis results are summarised as follows:
 
 1. XXX
 2. XXX
 3. XXX
+4. XXX
+5. XXX
+
+
+### Recommendations
+
+It was left to the discretion of enjoying readers to draw their own conclusions based upon their valuable perspectives and individual needs.
+
 
 ### Limitations
 
