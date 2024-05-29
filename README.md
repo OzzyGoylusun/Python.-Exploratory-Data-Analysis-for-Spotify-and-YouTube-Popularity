@@ -20,7 +20,7 @@ In this respect, *a darker green color* indicates a stronger positive correlatio
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Data%20Correlation%20Heat%20Map.png"
- alt="Heatmap for Data Correlation" width="700">
+ alt="Heatmap for Data Correlation" width="800">
 </p>
 
 For instance, there is a strong positive correlation between the *Energy and Loudness* parameters among the select tracks, with a coefficient value of 0.74, while there is a somewhat strong negative correlation between *Loudness and Acousticness*, with a coefficient value of -0.55.
