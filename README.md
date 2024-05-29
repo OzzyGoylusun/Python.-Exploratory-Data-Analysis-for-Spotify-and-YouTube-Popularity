@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Data Analysis](#data-analysis)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 
