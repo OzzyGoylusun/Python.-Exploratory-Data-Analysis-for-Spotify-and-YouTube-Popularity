@@ -1,4 +1,4 @@
-# Python-Exploratory-Data-Analysis-SpotifyYouTube-E
+# Exploratory Data Analysis for Spotify & YouTube Popularity
 
 ## Table of Contents
 
