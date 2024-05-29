@@ -39,10 +39,10 @@ The dataset used for this EDA project was **Spotify-YouTube.csv** also available
 
 The following data preparation and preprocessing tasks were undertaken:
 
-- The dataset was first inspected and then imported into two separate Pandas DataFrames.
-- NaN/non-existing values of certain records within particular columns were removed in one DataFrame.
-- A column named Decade was formed to be able to classify prize winners and categorise pertinent data as per 10-year periods.
-
+- The dataset was first inspected and then imported into two separate Pandas DataFrames, one for each (i.e., Spotify and YouTube-related data)
+- Certain columns that would not be required at any stage of the analysis were permanently dropped in both DataFrames.
+- NaN/non-existing values of certain records within particular columns were also removed.
+- Some data transformation tasks (e.g., new columns for a deeper data classification) were undertaken in an attempt to represent the data in the most user-friendly manner possible.
 
 ### Exploratory Data Analysis
 
