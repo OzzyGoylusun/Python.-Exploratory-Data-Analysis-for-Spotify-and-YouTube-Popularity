@@ -90,7 +90,7 @@ The critical EDA analysis results are summarised as follows:
 2. There is almost no correlation identified between the popularity of a Spotify song and its total duration, with a coefficient of -0.10. Nevertheless, it could be argued that composing slightly shorter songs could favour the artist.
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/2)%20Correlation%20between%20All%20Songs%20and%20Durations.png"  alt="Correlation" width="250">
+  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/2)%20Correlation%20between%20All%20Songs%20and%20Durations.png"  alt="Correlation" width="750">
 </p>
 
 3. XXX
