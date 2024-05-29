@@ -17,13 +17,14 @@ This EDA analysis conducted in Python aims to discover and explore the specific 
 
 As an illustration, below is a heatmap designed to highlight correlations between various musical parameters, taking into account nearly 18,000 unique tracks found in the dataset used.
 
-In this respect, *a darker green color* indicates a stronger positive correlation between two variables for more, while *a darker black color* indicates a stronger negative correlation between the variables.
+In this respect, *a darker green color* indicates a stronger positive correlation between two variables for more, while *a darker black color* indicates a stronger negative correlation between the variables. 
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Data%20Correlation%20Heat%20Map.png"
  alt="Heatmap for Data Correlation">
 </p>
 
+For instance, there is a strong positive correlation between the *Energy and Loudness* parameters, with a coefficient value of 0.74, while there is a somewhat strong negative correlation between *Loudness and Acousticness*, with a coefficient value of -0.55.
 
 ### Data Sources
 
