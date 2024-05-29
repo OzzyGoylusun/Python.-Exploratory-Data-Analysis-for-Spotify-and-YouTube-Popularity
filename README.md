@@ -24,7 +24,7 @@ In this respect, *a darker green color* indicates a stronger positive correlatio
  alt="Heatmap for Data Correlation">
 </p>
 
-For instance, there is a strong positive correlation between the *Energy and Loudness* parameters, with a coefficient value of 0.74, while there is a somewhat strong negative correlation between *Loudness and Acousticness*, with a coefficient value of -0.55.
+For instance, there is a strong positive correlation between the *Energy and Loudness* parameters among the select tracks, with a coefficient value of 0.74, while there is a somewhat strong negative correlation between *Loudness and Acousticness*, with a coefficient value of -0.55.
 
 ### Data Sources
 
