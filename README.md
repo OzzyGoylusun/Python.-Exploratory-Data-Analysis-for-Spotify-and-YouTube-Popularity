@@ -11,11 +11,11 @@
 
 This EDA analysis conducted in Python aims to discover and explore the specific elements that comprise the top 50 Spotify songs, as well as the extent to degree which their Spotify popularity is reflected on YouTube through their official channels on the platform.
 
-Below is an example of an heat map designed to highlight correlations between various musical parameters:
+For instance, below is an example of an heatmap designed to highlight correlations between various musical parameters:
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Heatmap%20Data%20Correlation.png"
- alt="Heatmap Data Correlation">
+  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Data%20Correlation%20Heat%20Map.png"
+ alt="Heatmap for Data Correlation">
 </p>
   
 
