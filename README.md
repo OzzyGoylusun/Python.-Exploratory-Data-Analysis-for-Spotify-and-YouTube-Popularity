@@ -93,9 +93,10 @@ The critical EDA analysis results are summarised as follows:
   <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/2)%20Correlation%20between%20All%20Songs%20and%20Durations.png"  alt="Correlation" width="750">
 </p>
 
-3. XXX
-4. XXX
+3. As visualized above in *the Project Overview*, **Energy** and **Loudness** exhibit a strong positive correlation, while **Energy** and **Valence-Danceability** show a somewhat strong positive correlation. Additionally, **Energy-Loudness** and **Acousticness-Instrumentalness** display a strong negative correlation.
+
 5. XXX
+6. XXX
 
 
 ### Recommendations
