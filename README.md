@@ -13,6 +13,11 @@ This EDA analysis conducted in Python aims to discover and explore the specific 
 
 Below is an example of an heat map designed to highlight correlations between various musical parameters:
 
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Heatmap%20Data%20Correlation.png"
+ alt="Heatmap Data Correlation">
+</p>
+  
 
 ### Data Sources
 
