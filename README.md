@@ -11,7 +11,7 @@
 This EDA analysis conducted in Python aims to discover and explore the specific elements that comprise the top 50 Spotify songs, as well as the extent to degree which their Spotify popularity is reflected on YouTube through their official channels on the platform.
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/Spotify-YouTube%20Logo.png"  alt="Spotify-YouTube Logo" width="300">
+  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/Spotify-YouTube%20Logo.png"  alt="Spotify-YouTube Logo" width="250">
 </p>
 
 As an illustration, below is a heatmap designed to highlight correlations between various musical parameters, taking into account nearly 18,000 unique tracks found in the dataset used.
@@ -52,14 +52,37 @@ By analysing the dataset at hand, EDA sought to answer the following key questio
 2. How strong is the correlation between the top 50 Spotify tracks and their corresponding song durations?
 3. Which musical track measures exhibit meaningful strong positive or negative correlations?
 4. What are the main characteristics of the top 50 Spotify songs based on the correlated measures?
-5. To what extent have the top 50 Spotify songs 
+5. To what extent have the top 50 Spotify songs achieved popularity on YouTube as well?
 
 ### Data Analysis
 
-XXX
+What I enjoyed most in this EDA project was the challenge of calculating correlation coefficients between multiple track measures to uncover hidden patterns and relationships. Consequently, I found that resorting to a correlation matrix was an effective solution for revealing such insights:
 
 ```python
-XXX
+rows_with_na = main_sy_df[['Danceability', 'Energy', 'Key', 'Loudness', 
+                           'Speechiness', 'Acousticness', 'Tempo', 'Instrumentalness',
+                           'Liveness', 'Valence']].isna().any(axis=1)
+
+corr_spotify_df = main_sy_df[~rows_with_na]
+
+# Preparing our Spotify Correlation Matrix
+
+corr_spotify = corr_spotify_df[['Danceability', 'Energy', 'Key', 'Loudness', 
+                                   'Speechiness', 'Acousticness', 'Tempo', 'Instrumentalness',
+                                   'Liveness', 'Valence']]
+
+corr_spotify_matrix = corr_spotify.corr()
+
+# Plotting our Correlation Heatmap using our customised color palette
+
+## We have created our customised Spotify-themed heatmap colors
+spotify_target_colors = ["#111111", "#535353", "#D1D7D0", "#F5F5F5", "#E1ECE3", "#62D089", "#1DB954", "#457E59"]
+
+## * Darker Green means Stronger Positive Correlation
+## * Darker Black means Stronger Negative Correlation
+
+plt.figure(figsize=(10, 8))
+sns.heatmap(corr_spotify_matrix, annot=True, cmap=spotify_target_colors)
 ```
 
 ### Findings
