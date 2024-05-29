@@ -11,7 +11,13 @@
 
 This EDA analysis conducted in Python aims to discover and explore the specific elements that comprise the top 50 Spotify songs, as well as the extent to degree which their Spotify popularity is reflected on YouTube through their official channels on the platform.
 
-For instance, below is a heatmap designed to highlight correlations between various musical parameters. *A darker green color* indicates a stronger positive correlation between two variables, while *a darker black color* indicates a stronger negative correlation between the variables.
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/Spotify-YouTube%20Logo.png"  alt="Spotify-YouTube Logo" width="300">
+</p>
+
+As an illustration, below is a heatmap designed to highlight correlations between various musical parameters, taking into account nearly 18,000 unique tracks found in the dataset used.
+
+In this respect, *a darker green color* indicates a stronger positive correlation between two variables for more, while *a darker black color* indicates a stronger negative correlation between the variables.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python-Exploratory-Data-Analysis-SpotifyYouTube-E/blob/main/Data%20Visuals/1)%20Data%20Correlation%20Heat%20Map.png"
