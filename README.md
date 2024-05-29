@@ -120,7 +120,7 @@ It was left to the discretion of enjoying readers to draw their own conclusions 
 
 ### Limitations
 
-XXX
+The dataset at hand is based on a static file, meaning it can only reflect information up to the date of data collection. Therefore, more updated datasets may provide additional insights or different trends.
 
 
 ### References
