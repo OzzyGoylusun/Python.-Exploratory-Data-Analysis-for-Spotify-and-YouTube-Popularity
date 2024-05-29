@@ -103,7 +103,7 @@ The critical EDA analysis results are summarised as follows:
 * Valence levels tend to skew towards neutral or slightly negative, suggesting that songs on Spotify are more preferred if they include elements of sadness, anger, depression or even anarchy.
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/2)%20Correlation%20between%20All%20Songs%20and%20Durations.png"  alt="Natural characteristics of the top 50 songs on Spotify" width="750">
+  <img src="https://github.com/OzzyGoylusun/Python.-Exploratory-Data-Analysis-Spotify-YouTube-Popularity/blob/main/Data%20Visuals/3)%20Natural%20Characteristics%20of%20the%20Top%2050%20Songs.png"  alt="Natural characteristics of the top 50 songs on Spotify" width="750">
 </p>
 
 5. XXX
