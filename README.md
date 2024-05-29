@@ -75,11 +75,8 @@ corr_spotify_matrix = corr_spotify.corr()
 
 # Plotting our Correlation Heatmap using our customised color palette
 
-## We have created our customised Spotify-themed heatmap colors
+## We have created our customised Spotify-themed heatmap colors. Darker Green - Stronger + Correlation; Darker Black - Stronger - Correlation
 spotify_target_colors = ["#111111", "#535353", "#D1D7D0", "#F5F5F5", "#E1ECE3", "#62D089", "#1DB954", "#457E59"]
-
-## * Darker Green means Stronger Positive Correlation
-## * Darker Black means Stronger Negative Correlation
 
 plt.figure(figsize=(10, 8))
 sns.heatmap(corr_spotify_matrix, annot=True, cmap=spotify_target_colors)
