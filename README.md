@@ -28,7 +28,7 @@ For instance, there is a strong positive correlation between the *Energy and Lou
 
 ### Data Sources
 
-XXX
+The dataset used for this EDA project was **Spotify-YouTube.csv** also available on Kaggle. (*Refer to References*)
 
 ### Tools
 
